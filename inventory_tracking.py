@@ -5,9 +5,6 @@
 # !pip install openpyxl
 # 
 
-# In[4]:
-
-
 import pandas as pd
 from tkinter import *
 from tkinter import messagebox, simpledialog
@@ -124,21 +121,6 @@ save_button.pack(pady=10)
 
 root.geometry("300x200")
 root.mainloop()
-
-
-# In[6]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
